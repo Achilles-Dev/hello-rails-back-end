@@ -19,6 +19,9 @@ To get a local copy up and running follow these simple example steps.
 - Rails
 - Postgresql
 
+### Link to the React front-end
+[React Front-end](https://github.com/Achilles-Dev/hello-react-front-end)
+
 ### Setup
 
 - Clone the Repository
