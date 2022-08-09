@@ -1,56 +1,50 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Rails Backend
 
-> Description the project.
+> This is an exercise that will have you create a Rails back-end and connect to a React front-end to display a random message.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+- Ruby
+- Ruby on Rails
+- Postgresql
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Ruby
+- Rails
+- Postgresql
+
+### Link to the React front-end
+[React Front-end](https://github.com/Achilles-Dev/hello-react-front-end)
+
 ### Setup
+
+- Clone the Repository
+`git clone https://github.com/Achilles-Dev/hello-rails-back-end.git`
+
+- Go to the project directory
+`cd hello-rails-back-end`
+
+- Run ```bundle install```
+- Run ```rails db:create```
+- Run ```rails db:migrate```
 
 ### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Run ```gem install --no-document rubocop -v '>= 1.0, < 2.0'```
 
 ## Authors
 
-👤 **Author1**
+👤 👤 **Solomon Hagan**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Achilles-Dev](https://github.com/Achilles-Dev/)
+- Twitter: [@SoloAchilles](https://twitter.com/SoloAchilles/)
+- LinkedIn: [Solomon Hagan](https://www.linkedin.com/in/solomon-hagan/)
 
 ## 🤝 Contributing
 
